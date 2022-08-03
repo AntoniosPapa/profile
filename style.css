@@ -1,0 +1,109 @@
+h1 {
+  background-color: #F6F6F6;
+  font-family: 'Mouse Memoirs', sans-serif;
+  color: #000000;
+  font-size:x-large;
+  line-height: large;
+  }
+
+h2 {
+  background-color: #c7d5d9;
+  font-family: 'Mouse Memoirs', sans-serif;
+  color: #11272b;
+  font-size:large;
+  line-height: medium;
+  }
+
+p {background-color: none;
+  font-family: 'Space Mono', monospace;
+  color: #482626;
+  font-size:small;
+  line-height: medium;
+  text-align: justify;
+}
+
+#interest-list{
+  padding: 0;
+}
+
+li {
+  /* background-color: #b0bcbf; */
+  font-family: 'Josefin Sans', sans-serif;
+  color: #057e64;
+  font-size:medium;
+  display:inline;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color:gray;
+}
+
+.background-gray{
+  background-color:rgb(206, 221, 226) ;
+}
+#Button {
+  padding: 15px 20px;
+  background-color: #948a45;
+  color:#d9dce6;
+  border-radius: 5px;
+}
+
+#Button:hover {
+  text-decoration: underline;
+  color: rgb(50, 64, 97);
+  }
+
+#navigation > li > a {
+  color: d9cab3;
+}
+
+#Oslo {
+  width: 150px;
+  height: 150px;
+}
+
+#profile-photo{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.contrainer{
+  width: 750px;
+  display: block;
+  margin: 0px;
+}
+
+.profile-Card{
+  background: rgb(233, 197, 197);
+  padding: 30px;
+  border-radius: 4px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  border-color: #93A9AF;
+  text-align: center;
+  margin: 25px 100px 25px 100px;
+  border-radius: 5px
+}
+
+.interest{
+  background: rgb(228, 197, 156);
+  padding: 30px;
+  border-radius: 4px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  border-color: #93A9AF;
+  text-align: center;
+  margin: 25px 100px 25px 100px;
+  border-radius: 5px;
+}
+
+#navigation{
+  background: rgb(208, 175, 175);
+  padding: 40px;
+  border-radius: 6px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  border-color: #93A9AF;
+  text-align: center;
+  margin: 25px 100px 25px 100px;
+}
